@@ -1,7 +1,7 @@
 /*
 Platform: 
 Difficulty: 
-Topic: 
+Topic: Math Arithmetic, 
 Pattern:
 
 Problem Summary:
@@ -14,4 +14,4 @@ Key Lesson:
 */
 
 
-# Query:
+-- Query:
