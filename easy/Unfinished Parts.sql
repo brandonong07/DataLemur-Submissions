@@ -11,7 +11,6 @@ Approach: Find where the finish_date is NULL.
 
 */
 
-
 -- Query:
 SELECT part, assembly_step
 FROM parts_assembly
