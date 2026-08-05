@@ -1,7 +1,7 @@
 /*
 Platform: 
 Difficulty: 
-Topic: Math Arithmetic, 
+Topic: 
 Pattern:
 
 Problem Summary:
