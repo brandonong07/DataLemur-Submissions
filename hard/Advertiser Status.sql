@@ -17,7 +17,6 @@ Key Lesson: COALESCE is very useful and we can use CASE with joins. The reason w
 
 */
 
-
 -- Query:
 SELECT COALESCE(daily_pay.user_id, advertiser.user_id) AS user_id,
   CASE 
